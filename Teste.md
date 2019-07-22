@@ -4,4 +4,4 @@
 
 Este caso de uso tem como objetivo xpto.
 
-Desenv local - Alteração no Master - github web
+Desenv local - Alteração no Master - github web mais uma anotação.
