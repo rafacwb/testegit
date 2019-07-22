@@ -4,4 +4,4 @@
 
 Este caso de uso tem como objetivo xpto.
 
-Master local gitcracken
+Desenv local - Alteração no Master - github web
